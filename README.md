@@ -6,7 +6,7 @@ Hi there, I'm Akshay Barne 👋
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" width=300>
 
-👩‍🎓 I’m an Information Systems Grad student at Northeastern University, Boston (May 2024)
+👩‍🎓 I’m an Information Systems Grad student at Northeastern University, Boston (December 2023)
 
 💼 I’ve over 3 years of professional experience in the field of data analystics and machine learning
 </div>

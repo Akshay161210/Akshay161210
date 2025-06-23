@@ -4,7 +4,7 @@ Hi there, I'm Akshay Barne 👋
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHN4YWxiaXE3NjBmZWZ1dGllYmU4dmplczQwa3FsNzRhZTllN2FrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" />
+  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" width=300>
 
 👩‍🎓 I’m an Information Systems Grad student at Northeastern University, Boston (May 2024)
 
